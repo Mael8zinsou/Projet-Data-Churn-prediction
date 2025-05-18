@@ -1,0 +1,5 @@
+- [x] Setup  
+- [x] Exploration  
+- [x] Nettoyage  
+- [x] Modélisation  
+- [x] Analyse
